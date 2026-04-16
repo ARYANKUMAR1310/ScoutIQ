@@ -43,7 +43,3 @@ I would add swipe-to-delete on the shortlist and improve the UI with better visu
 ## AI usage
 
 Used AI mainly for debugging, structuring parts of the app, and improving edge case handling. Final decisions and implementation were done manually.
-
----
-
-That’s it — kept it simple and focused on functionality.
