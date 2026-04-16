@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# ScoutIQ
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ScoutIQ is a simple React Native app (Expo + TypeScript) built to help scouts discover athletes, evaluate them, and maintain a shortlist — all locally without any backend.
 
-## Get started
+---
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+# How to run
 
 ```bash
-npm run reset-project
+git clone https://github.com/ARYANKUMAR1310/ScoutIQ.git
+cd ScoutIQ
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Open using Expo Go or an emulator.
 
-## Learn more
+---
+Key decisions
 
-To learn more about developing your project with Expo, look at the following resources:
+* Used a **local JSON file** for athlete data to keep things simple and aligned with the assignment.
+* Calculated the **readiness score dynamically** based on sport-specific weights instead of hardcoding it.
+* Built a **custom progress bar** using basic React Native views (no libraries).
+* Implemented **debounced search (300ms)** to keep the UI responsive.
+* Used **AsyncStorage** to persist shortlist data across sessions.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## What’s incomplete
 
-Join our community of developers creating universal apps.
+* No backend or real data (intentionally kept local)
+* No images for athletes
+* Shortlist uses a button instead of swipe gestures
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## What I’d improve with more time
+
+I would add swipe-to-delete on the shortlist and improve the UI with better visual feedback and small animations.
+
+---
+
+## AI usage
+
+Used AI mainly for debugging, structuring parts of the app, and improving edge case handling. Final decisions and implementation were done manually.
+
+---
+
+That’s it — kept it simple and focused on functionality.
