@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Cristiano ROnaldo",
+    "sport": "Football",
+    "position": "Forward",
+    "age": 22,
+    "stats": { "Speed": 100, "Stamina": 100, "Passing": 100, "Dribbling": 100, "Shooting": 100, "Vision": 100 },
+    "matchHistory": [100, 100, 100, 100, 100]
+  },
+  {
+    "id": 2,
+    "name": "Aryan Kumar",
+    "sport": "Football",
+    "position": "Left Winger",
+    "age": 20,
+    "stats": { "Speed": 99, "Stamina": 99, "Passing": 99, "Dribbling": 99, "Shooting": 99, "Vision": 99 },
+    "matchHistory": [99, 99, 99, 99, 99, 99]
+  },
+  {
+    "id": 3,
+    "name": "Manav Bose",
+    "sport": "Football",
+    "position": "Defender",
+    "age": 24,
+    "stats": { "Speed": 74, "Stamina": 86, "Passing": 77, "Dribbling": 62, "Shooting": 55, "Vision": 80 },
+    "matchHistory": [70, 75, 80, 68, 77, 72]
+  },
+  {
+    "id": 4,
+    "name": "Divya Sharma",
+    "sport": "Football",
+    "position": "Winger",
+    "age": 21,
+    "stats": { "Speed": 96, "Stamina": 80, "Passing": 70, "Dribbling": 90, "Shooting": 68, "Vision": 74 },
+    "matchHistory": [88, 80, 92, 85, 87, 90]
+  },
+  {
+    "id": 5,
+    "name": "Kartik Joshi",
+    "sport": "Football",
+    "position": "Goalkeeper",
+    "age": 23,
+    "stats": { "Speed": 60, "Stamina": 85, "Passing": 72, "Dribbling": 40, "Shooting": 35, "Vision": 88 },
+    "matchHistory": [65, 70, 60, 75, 68, 72]
+  },
+  {
+    "id": 6,
+    "name": "Ravi Singh",
+    "sport": "Basketball",
+    "position": "Point Guard",
+    "age": 21,
+    "stats": { "Speed": 88, "Shooting": 76, "Passing": 91, "Defense": 70, "Rebounding": 62, "IQ": 94 },
+    "matchHistory": [70, 74, 80, 66, 78, 73]
+  },
+  {
+    "id": 7,
+    "name": "Ananya Pillai",
+    "sport": "Basketball",
+    "position": "Forward",
+    "age": 22,
+    "stats": { "Speed": 82, "Shooting": 85, "Passing": 72, "Defense": 78, "Rebounding": 74, "IQ": 80 },
+    "matchHistory": [82, 88, 85, 90, 79, 86]
+  },
+  {
+    "id": 8,
+    "name": "Siddharth Nair",
+    "sport": "Basketball",
+    "position": "Center",
+    "age": 25,
+    "stats": { "Speed": 62, "Shooting": 68, "Passing": 65, "Defense": 90, "Rebounding": 94, "IQ": 78 },
+    "matchHistory": [75, 70, 78, 72, 80, 74]
+  },
+  {
+    "id": 9,
+    "name": "Ishaan Mehta",
+    "sport": "Basketball",
+    "position": "Guard",
+    "age": 20,
+    "stats": { "Speed": 79, "Shooting": 92, "Passing": 68, "Defense": 65, "Rebounding": 60, "IQ": 82 },
+    "matchHistory": [88, 92, 85, 90, 94, 87]
+  },
+  {
+    "id": 10,
+    "name": "Preethi Krishnan",
+    "sport": "Basketball",
+    "position": "Forward",
+    "age": 23,
+    "stats": { "Speed": 74, "Shooting": 77, "Passing": 70, "Defense": 85, "Rebounding": 88, "IQ": 76 },
+    "matchHistory": [76, 72, 80, 68, 75, 77]
+  },
+  {
+    "id": 11,
+    "name": "Priya Mehta",
+    "sport": "Athletics",
+    "position": "Sprinter",
+    "age": 19,
+    "stats": { "Speed": 97, "Stamina": 80, "Technique": 84, "Explosiveness": 94, "Consistency": 78, "Recovery": 82 },
+    "matchHistory": [86, 90, 88, 92, 89, 94]
+  },
+  {
+    "id": 12,
+    "name": "Aditya Kumar",
+    "sport": "Athletics",
+    "position": "Long Jump",
+    "age": 22,
+    "stats": { "Speed": 90, "Stamina": 70, "Technique": 86, "Explosiveness": 92, "Consistency": 74, "Recovery": 76 },
+    "matchHistory": [80, 84, 78, 86, 82, 88]
+  },
+  {
+    "id": 13,
+    "name": "Kavita Rao",
+    "sport": "Athletics",
+    "position": "Middle Distance",
+    "age": 21,
+    "stats": { "Speed": 84, "Stamina": 95, "Technique": 78, "Explosiveness": 75, "Consistency": 88, "Recovery": 90 },
+    "matchHistory": [82, 85, 88, 84, 90, 87]
+  },
+  {
+    "id": 14,
+    "name": "Vikram Pillai",
+    "sport": "Athletics",
+    "position": "Discus",
+    "age": 24,
+    "stats": { "Speed": 65, "Stamina": 82, "Technique": 90, "Explosiveness": 88, "Consistency": 85, "Recovery": 78 },
+    "matchHistory": [78, 80, 76, 82, 79, 84]
+  },
+  {
+    "id": 15,
+    "name": "Rohit Yadav",
+    "sport": "Athletics",
+    "position": "Javelin",
+    "age": 23,
+    "stats": { "Speed": 70, "Stamina": 85, "Technique": 88, "Explosiveness": 90, "Consistency": 80, "Recovery": 82 },
+    "matchHistory": [82, 84, 86, 88, 85, 87]
+  }
+]
