@@ -3,6 +3,7 @@
 ScoutIQ is a simple React Native app (Expo + TypeScript) built to help scouts discover athletes, evaluate them, and maintain a shortlist — all locally without any backend.
 
 ---
+Demo Video - https://github.com/user-attachments/assets/d1d8e23e-fabf-4886-91ad-e6664f70579a
 
 # How to run
 
